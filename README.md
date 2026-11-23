@@ -6,8 +6,8 @@ Alumno: Arjona, Martin
 Aplicación web para un negocio de comidas: los clientes se registran, recorren el catálogo, arman un carrito y
 confirman pedidos; el administrador gestiona categorías, productos, stock, pedidos y usuarios desde un panel.
 
-- **Repositorio:** https://github.com/USUARIO/food-store
-- **Video de demostración:** https://youtu.be/VIDEO
+- **Repositorio:** https://github.com/arjo94/food-store
+- **Video de demostración:** https://youtu.be/zrvLiU28u0I
 
 ## Requisitos
 
