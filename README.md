@@ -193,12 +193,7 @@ frontend/src/
   y el mensaje en español no se pudo decodificar. Revisar `DATABASE_URL` en `backend/.env` y que exista la base `foodstore_db`.
 - **El navegador no guarda la sesión:** el frontend debe abrirse en `http://localhost:5173` (el mismo origen que `FRONTEND_ORIGIN`).
 
-### Credenciales de prueba
-
-| Rol | Usuario | Contraseña | Cómo se obtiene |
-|---|---|---|---|
-| admin | `admin` | `Admin1234!` | Lo crea el seed |
-| user | `cliente1` | `Cliente1234!` | Se registra desde `/register` (el registro público siempre asigna el rol `user`) |
+## Video y Repositorio
 
 - **Repositorio:** https://github.com/arjo94/food-store
 - **Video de demostración:** https://youtu.be/zrvLiU28u0I
